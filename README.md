@@ -9,7 +9,7 @@
       margin: 0;
       background: #f5f7fa;
       color: #333;
-      <p>Zair Bouzidi :</p>
+      <p>My photography :</p>
   <img src="bouzidizair.jpg" alt="My photography" width="250" style="border-radius:15px;">
     }
     header {
