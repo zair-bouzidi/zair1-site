@@ -10,7 +10,7 @@
       background: #f5f7fa;
       color: #333;
       <p>Zair Bouzidi :</p>
-  <img src="BouzidiZair.jpg" alt="z.Bouzidi" width="250" style="border-radius:15px;">
+  <img src="bouzidizair.jpg" alt="My photography" width="250" style="border-radius:15px;">
     }
     header {
       background: #004080;
