@@ -55,7 +55,7 @@
   <a href="#about">Home</a>
   <a href="#research">Research</a>
   <a href="#publications">Publications</a>
-  <a href="#teaching">teaching</a>
+  <a href="#teaching">Teaching</a>
   <a href="#contact">Contact</a>
 </nav>
 
@@ -82,9 +82,16 @@ My goal is to contribute to a more resilient, sustainable and healthy society.</
 </section>
 
 <section id="teaching">
-  <h2>Teaching</h2>
-  <p>Modules taught: Compilation, Introduction to Artificial Intelligence, Artificial Intelligence,
-Data Mining and Machine Learning, Deep Learning, Intelligent Systems.</p>
+<h2>Teaching</h2>
+  <p>Modules taught:</p>
+<ul>
+    <li>Compilation</li>
+    <li>Introduction to Artificial Intelligence</li>
+    <li>Artificial Intelligence</li>
+    <li>Data Mining & Machine Learning</li>
+    <li>Deep Learning</li>
+    <li>Intelligent Systems</li>
+  </ul>
 </section>
 
 <section id="contact">
