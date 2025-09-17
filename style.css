@@ -57,3 +57,19 @@ footer {
   padding: 15px;
   margin-top: 20px;
 }
+#contact a {
+  color: #004080;
+  font-size: 18px;
+  text-decoration: none;
+  margin: 10px;
+  display: inline-block;
+}
+
+#contact a:hover {
+  color: #ff6600;
+}
+
+#contact i {
+  margin-right: 8px;
+  color: #003366;
+}
