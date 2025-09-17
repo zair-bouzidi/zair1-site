@@ -1,11 +1,23 @@
+/* Style général */
+body {
+  font-family: Arial, sans-serif;
+  margin: 0;
+  background: #f5f7fa;
+  color: #333;
+  line-height: 1.6;
+}
+
+/* Header avec photo et titre */
 .hero {
   text-align: center;
   padding: 40px 20px;
+  background: linear-gradient(to right, #004080, #0066cc);
+  color: white;
 }
 .profile-pic {
   width: 180px;
   border-radius: 50%;
-  box-shadow: 0 4px 15px rgba(0,0,0,0.2);
+  box-shadow: 0 4px 15px rgba(0,0,0,0.3);
   margin-bottom: 20px;
 }
 .btn {
@@ -21,4 +33,40 @@
 }
 .btn:hover {
   background: #cc5500;
+}
+
+/* Menu */
+nav {
+  background: #003366;
+  padding: 10px;
+  text-align: center;
+  position: sticky;
+  top: 0;
+}
+nav a {
+  color: white;
+  text-decoration: none;
+  margin: 0 15px;
+  font-weight: bold;
+}
+nav a:hover {
+  text-decoration: underline;
+}
+
+/* Sections */
+section {
+  padding: 40px 20px;
+}
+h2 {
+  color: #004080;
+  margin-bottom: 15px;
+}
+
+/* Footer */
+footer {
+  background: #004080;
+  color: white;
+  text-align: center;
+  padding: 15px;
+  margin-top: 20px;
 }
