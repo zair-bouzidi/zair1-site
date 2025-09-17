@@ -10,7 +10,7 @@ body {
 .hero {
   position: relative;  /* nécessaire pour que le logo se positionne à l’intérieur */
   text-align: center;
-  padding: 40px 20px;
+  padding: 20px 10px;
   background: linear-gradient(to right, #004080, #0066cc);
   color: white;
 }
